@@ -1,4 +1,5 @@
-Копіювати код
+
+Html
 <!DOCTYPE html>
 <html lang="uk">
 <head>
@@ -116,5 +117,4 @@
 </footer>
 
 </body>
-</html
-index-uk.html.   
+</html> 
